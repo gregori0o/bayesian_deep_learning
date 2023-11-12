@@ -9,7 +9,7 @@ pip install -r requirements.txt
 ```
 - `zhusuan` library
 ```shell
-git clone https://github.com/thuwzy/ZhuSuan-PyTorch.git zhusuan
+git clone https://github.com/thu-ml/zhusuan.git zhusuan
 cd zhusuan
 pip install .
 ```
